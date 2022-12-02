@@ -124,5 +124,5 @@ variable to '1'. This can't be controlled through event payload.
 
 ## Schedule execution 
 
-Pull requests are welcome to serverless project to deploy CloudWatch rules in order
+Pull requests are not welcome to serverless project to deploy CloudWatch rules in order
 to schedule execution of Http Checking Lambda function.
